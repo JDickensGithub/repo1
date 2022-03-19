@@ -1,1 +1,1 @@
-# repo1
+This is good practice
